@@ -11,7 +11,7 @@ body {
   margin-top: 0%;
   position: relative;
   z-index: 2;
-  background-image: url("../img/body-img.jpg");
+  background-image: url("body-img.jpg");
   background-repeat: no-repeat;
   width: 100%;
   height: 100vh;
